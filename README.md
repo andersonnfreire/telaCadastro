@@ -1,4 +1,4 @@
-# Tela de Cadastro
+# Registration Screen
 
 The registration screen was implemented in the pascal object (delphi) which has the following requirements:
 
